@@ -1,8 +1,10 @@
 #ChatGPT AWS Proxy
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/nangcr/chatgpt-aws-proxy)](https://goreportcard.com/report/github.com/nangcr/chatgpt- aws-proxy)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nangcr/chatgpt-aws-proxy/master/LICENSE )
-[![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/nangcr/chatgpt -aws-proxy)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nangcr/chatgpt-aws-proxy)](https://goreportcard.com/report/github.com/nangcr/chatgpt-aws-proxy)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nangcr/chatgpt-aws-proxy/master/LICENSE)
+[![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/nangcr/chatgpt-aws-proxy)
+
+[中文](https://github.com/finncheong/aws-proxy-gpt/README.zh)
 
 This project is an AWS Lambda function to forward HTTP requests to OpenAI's ChatGPT API. The code of this project is written in Go language and can also be deployed on any VPS.
 
